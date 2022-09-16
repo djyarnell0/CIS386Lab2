@@ -16,3 +16,4 @@ void main()
   printf("2\n");
 
 }
+printf('Hey')
