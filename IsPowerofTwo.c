@@ -23,9 +23,10 @@ int main()
     isPowerOfTwoSimple(i) ? printf("Yes\n") : printf("No\n");
 
     if(isPowerOfTwoClever(i))
-        printf("Yes");
+        // printf("Yes");
+        return 0;
     else
-        printf("No");
+        // printf("No");
         return 1;
 }
 
